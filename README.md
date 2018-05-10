@@ -1,5 +1,6 @@
 Email Blueprints
 ================
+![](https://i.imgur.com/7VPWGBn.png)
 
 [Brought to you by MailChimp](http://www.mailchimp.com/), these email blueprints are licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
 
